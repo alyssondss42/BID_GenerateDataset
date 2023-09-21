@@ -43,3 +43,5 @@ Onde as coordenadas X e Y são dadas por uma sequência de pontos que formam o p
 ### OBS.:
 1. O arquivo find_face.py é um script que usa um modelo de reconhecimento de rostos pré-treinado [D. E. King, “Max-margin object detection,” arXiv preprint arXiv:1502.00046, 2015.] ,disponível no diretório "files" deste trabalho, para reconhecer os rostos nos documentos e realizar um *blur* na região. O mesmo não está diretamente interligado com o processo de geração da base, mas foi utilizado para o resultado final.
 2. Já o arquivo paths.py possui apenas a assinatura de um diretório utilizado no projeto para evitar a sua repetição ao longo do desenvolvimento. 
+
+Repositório original: https://github.com/AlyssonDSS/GeradorBaseSintetica
